@@ -1,0 +1,22 @@
+{
+    "name": "almahmud.me",
+    "version": "1.0.0",
+    "description": "Begining",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlMahmud22/almahmud.me.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/AlMahmud22/almahmud.me/issues"
+    },
+    "homepage": "https://github.com/AlMahmud22/almahmud.me#readme"
+}
