@@ -1,0 +1,4 @@
+# Node.js modules
+node_modules/
+# azure
+.github/workflows/main_mahmud.yml
