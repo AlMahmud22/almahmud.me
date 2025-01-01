@@ -6,7 +6,11 @@
     "scripts": {
         "start": "node index.js"
     },
-    "devDependencies": {},
+    "devDependencies": {
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.49",
+        "tailwindcss": "^3.4.17"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/AlMahmud22/almahmud.me.git"
@@ -18,5 +22,8 @@
     "bugs": {
         "url": "https://github.com/AlMahmud22/almahmud.me/issues"
     },
-    "homepage": "https://github.com/AlMahmud22/almahmud.me#readme"
+    "homepage": "https://github.com/AlMahmud22/almahmud.me#readme",
+    "dependencies": {
+        "sass": "^1.83.0"
+    }
 }
