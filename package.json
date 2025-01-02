@@ -2,9 +2,11 @@
   "name": "almahmud.me",
   "version": "1.0.0",
   "main": "index.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\""
-  },
+  "test": "mocha"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlMahmud22/almahmud.me.git"
